@@ -1,0 +1,128 @@
+Scenario Type,Scenario,Policy Type,Average Goal Difference
+offense,11 vs GK,PPO with No Pretraining,0.02
+offense,11 vs GK,PPO with No Pretraining,0.93
+offense,11 vs GK,PPO with No Pretraining,0
+offense,"Avoid, Pass and Shoot",PPO with No Pretraining,0.65
+offense,"Avoid, Pass and Shoot",PPO with No Pretraining,0.45
+offense,"Avoid, Pass and Shoot",PPO with No Pretraining,0.91
+academy,Easy Counter-Attack,PPO with No Pretraining,0.01
+academy,Easy Counter-Attack,PPO with No Pretraining,0.02
+academy,Easy Counter-Attack,PPO with No Pretraining,0.04
+academy,Pass and Shoot with Keeper,PPO with No Pretraining,0.82
+academy,Pass and Shoot with Keeper,PPO with No Pretraining,0.81
+academy,Pass and Shoot with Keeper,PPO with No Pretraining,
+academy,Run to Score with Keeper,PPO with No Pretraining,0
+academy,Run to Score with Keeper,PPO with No Pretraining,0.01
+academy,Run to Score with Keeper,PPO with No Pretraining,0.02
+offense,11 vs GK,Scenic Policy,0.7
+offense,11 vs GK,Scenic Policy,0.7
+offense,11 vs GK,Scenic Policy,0.7
+offense,"Avoid, Pass and Shoot",Scenic Policy,0.176
+offense,"Avoid, Pass and Shoot",Scenic Policy,0.176
+offense,"Avoid, Pass and Shoot",Scenic Policy,0.176
+academy,Easy Counter-Attack,Scenic Policy,0.394
+academy,Pass and Shoot with Keeper,Scenic Policy,0.454
+academy,Pass and Shoot with Keeper,Scenic Policy,0.454
+academy,Pass and Shoot with Keeper,Scenic Policy,0.454
+academy,Run to Score with Keeper,Scenic Policy,0.424
+academy,Run to Score with Keeper,Scenic Policy,0.424
+academy,Run to Score with Keeper,Scenic Policy,0.424
+academy,Easy Counter-Attack,BC Policy,0.047945205
+academy,Easy Counter-Attack,BC Policy,0.020547945
+academy,Easy Counter-Attack,BC Policy,0.081300813
+academy,Easy Counter-Attack,BC Policy,0.035714286
+academy,Easy Counter-Attack,BC Policy,0.039473684
+academy,Easy Counter-Attack,BC Policy,0.011494253
+academy,Easy Counter-Attack,BC Policy,0.046052632
+academy,Easy Counter-Attack,BC Policy,0.136690647
+academy,Pass and Shoot with Keeper,BC Policy,0.089005236
+academy,Pass and Shoot with Keeper,BC Policy,0.037735849
+academy,Pass and Shoot with Keeper,BC Policy,0.297297297
+academy,Pass and Shoot with Keeper,BC Policy,0.135135135
+academy,Pass and Shoot with Keeper,BC Policy,0.005347594
+academy,Pass and Shoot with Keeper,BC Policy,0.326732673
+academy,Pass and Shoot with Keeper,BC Policy,0.305263158
+academy,Pass and Shoot with Keeper,BC Policy,0.043650794
+academy,Pass and Shoot with Keeper,BC Policy,0
+academy,Pass and Shoot with Keeper,BC Policy,0.016129032
+academy,Run to Score with Keeper,BC Policy,0.345323741
+academy,Run to Score with Keeper,BC Policy,0.201438849
+academy,Run to Score with Keeper,BC Policy,0.255172414
+academy,Run to Score with Keeper,BC Policy,0.294117647
+academy,Run to Score with Keeper,BC Policy,0.255474453
+academy,Run to Score with Keeper,BC Policy,0.304347826
+academy,Run to Score with Keeper,BC Policy,0.311594203
+academy,Run to Score with Keeper,BC Policy,0.302158273
+academy,Run to Score with Keeper,BC Policy,0.284722222
+academy,Run to Score with Keeper,BC Policy,0.335714286
+offense,"Avoid, Pass and Shoot",BC Policy,0.424242424
+offense,"Avoid, Pass and Shoot",BC Policy,0.372262774
+academy,Easy Counter-Attack,BC Policy,0.220588235
+academy,Easy Counter-Attack,BC Policy,0.045454545
+offense,11 vs GK,BC Policy,0.620689655
+offense,11 vs GK,BC Policy,0.522727273
+offense,11 vs GK,BC Policy,0.632183908
+offense,11 vs GK,BC Policy,0.663157895
+offense,11 vs GK,BC Policy,0.494117647
+offense,11 vs GK,BC Policy,0.593406593
+offense,11 vs GK,BC Policy,0.579545455
+offense,11 vs GK,BC Policy,0.595505618
+offense,11 vs GK,BC Policy,0.525773196
+offense,11 vs GK,BC Policy,0.561797753
+offense,"Avoid, Pass and Shoot",BC Policy,0.272727273
+offense,"Avoid, Pass and Shoot",BC Policy,0.369127517
+offense,"Avoid, Pass and Shoot",BC Policy,0.314516129
+offense,"Avoid, Pass and Shoot",BC Policy,0.383458647
+offense,"Avoid, Pass and Shoot",BC Policy,0.34965035
+offense,"Avoid, Pass and Shoot",BC Policy,0.230769231
+offense,"Avoid, Pass and Shoot",BC Policy,0.288
+offense,"Avoid, Pass and Shoot",BC Policy,0.230215827
+academy,Easy Counter-Attack,PPO with Pretraining,0.069767442
+academy,Easy Counter-Attack,PPO with Pretraining,0.081081081
+academy,Easy Counter-Attack,PPO with Pretraining,0.179104478
+academy,Easy Counter-Attack,PPO with Pretraining,0.060240964
+academy,Easy Counter-Attack,PPO with Pretraining,0.069230769
+academy,Easy Counter-Attack,PPO with Pretraining,0.015267176
+academy,Easy Counter-Attack,PPO with Pretraining,0.071428571
+academy,Easy Counter-Attack,PPO with Pretraining,0.06122449
+academy,Easy Counter-Attack,PPO with Pretraining,0.257142857
+academy,Pass and Shoot with Keeper,PPO with Pretraining,0.467005076
+academy,Pass and Shoot with Keeper,PPO with Pretraining,0.716535433
+academy,Pass and Shoot with Keeper,PPO with Pretraining,0.68487395
+academy,Pass and Shoot with Keeper,PPO with Pretraining,0.453658537
+academy,Pass and Shoot with Keeper,PPO with Pretraining,0.621513944
+academy,Pass and Shoot with Keeper,PPO with Pretraining,0.62987013
+academy,Pass and Shoot with Keeper,PPO with Pretraining,0.685552408
+academy,Pass and Shoot with Keeper,PPO with Pretraining,0.709163347
+academy,Pass and Shoot with Keeper,PPO with Pretraining,0.476851852
+academy,Pass and Shoot with Keeper,PPO with Pretraining,0.463157895
+academy,Run to Score with Keeper,PPO with Pretraining,0.476510067
+academy,Run to Score with Keeper,PPO with Pretraining,0.439490446
+academy,Run to Score with Keeper,PPO with Pretraining,0.614906832
+academy,Run to Score with Keeper,PPO with Pretraining,0.516778523
+academy,Run to Score with Keeper,PPO with Pretraining,0.584415584
+academy,Run to Score with Keeper,PPO with Pretraining,0.601265823
+academy,Run to Score with Keeper,PPO with Pretraining,0.605095541
+academy,Run to Score with Keeper,PPO with Pretraining,0.64
+academy,Run to Score with Keeper,PPO with Pretraining,0.496732026
+academy,Run to Score with Keeper,PPO with Pretraining,0.81
+offense,11 vs GK,PPO with Pretraining,0.890756303
+offense,11 vs GK,PPO with Pretraining,0.891666667
+offense,11 vs GK,PPO with Pretraining,0.841666667
+offense,11 vs GK,PPO with Pretraining,0.926229508
+offense,11 vs GK,PPO with Pretraining,0.838983051
+offense,11 vs GK,PPO with Pretraining,0.913043478
+offense,11 vs GK,PPO with Pretraining,0.903508772
+offense,11 vs GK,PPO with Pretraining,0.85
+offense,11 vs GK,PPO with Pretraining,0.972972973
+offense,11 vs GK,PPO with Pretraining,0.869918699
+offense,"Avoid, Pass and Shoot",PPO with Pretraining,0.849246231
+offense,"Avoid, Pass and Shoot",PPO with Pretraining,0.783333333
+offense,"Avoid, Pass and Shoot",PPO with Pretraining,0.37745098
+offense,"Avoid, Pass and Shoot",PPO with Pretraining,0.780748663
+offense,"Avoid, Pass and Shoot",PPO with Pretraining,0.497695853
+offense,"Avoid, Pass and Shoot",PPO with Pretraining,0.787234043
+offense,"Avoid, Pass and Shoot",PPO with Pretraining,0.530864198
+offense,"Avoid, Pass and Shoot",PPO with Pretraining,0.357142857
+offense,"Avoid, Pass and Shoot",PPO with Pretraining,0
+offense,"Avoid, Pass and Shoot",PPO with Pretraining,0.566523605

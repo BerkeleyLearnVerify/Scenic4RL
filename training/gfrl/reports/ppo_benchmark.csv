@@ -1,0 +1,131 @@
+Scenario Type,Scenario,Average Goal Difference
+Offense,"Avoid, Pass, and Shoot",0.632911392
+Offense,"Avoid, Pass, and Shoot",0.586614173
+Offense,"Avoid, Pass, and Shoot",0.88590604
+Offense,"Avoid, Pass, and Shoot",0.618421053
+Offense,"Avoid, Pass, and Shoot",0.910891089
+Offense,"Avoid, Pass, and Shoot",0.914191419
+Offense,"Avoid, Pass, and Shoot",0.588
+Offense,"Avoid, Pass, and Shoot",0.833333333
+Offense,"Avoid, Pass, and Shoot",0.405882353
+Offense,"Avoid, Pass, and Shoot",0.909090909
+Offense,Easy Crossing,0.666666667
+Offense,Easy Crossing,0.626436782
+Offense,Easy Crossing,0.704301075
+Offense,Easy Crossing,0.384955752
+Offense,Easy Crossing,0.386178862
+Offense,Easy Crossing,0.29047619
+Offense,Easy Crossing,0.68957346
+Offense,Easy Crossing,0.714285714
+Offense,Easy Crossing,0.4
+Offense,Easy Crossing,0.386046512
+Offense,11 vs GK,0.005376344
+Offense,11 vs GK,0.011494253
+Offense,11 vs GK,0.903508772
+Offense,11 vs GK,0.00462963
+Offense,11 vs GK,0
+Offense,11 vs GK,0.005952381
+Offense,11 vs GK,0.29787234
+Offense,11 vs GK,0
+Offense,11 vs GK,0.020408163
+Offense,11 vs GK,0.011363636
+Offense,Hard Crossing,0.022988506
+Offense,Hard Crossing,-0.137566138
+Offense,Hard Crossing,-0.013043478
+Offense,Hard Crossing,0.195876289
+Offense,Hard Crossing,0.224299065
+Offense,Hard Crossing,0.047169811
+Offense,Hard Crossing,0.199095023
+Offense,Hard Crossing,0.220512821
+Offense,Hard Crossing,0.227091633
+Offense,Hard Crossing,0.194029851
+Defense,GK vs Opponnent,-0.039370079
+Defense,GK vs Opponnent,-0.03125
+Defense,GK vs Opponnent,-0.051724138
+Defense,GK vs Opponnent,-0.075757576
+Defense,GK vs Opponnent,-0.059322034
+Defense,GK vs Opponnent,-0.030534351
+Defense,GK vs Opponnent,-0.042253521
+Defense,GK vs Opponnent,-0.046875
+Defense,GK vs Opponnent,-0.039370079
+Defense,GK vs Opponnent,-0.06504065
+Defense,2vs2,-0.303370787
+Defense,2vs2,-0.098039216
+Defense,2vs2,-0.131147541
+Defense,2vs2,-0.074074074
+Defense,2vs2,-0.126984127
+Defense,2vs2,-0.179487179
+Defense,2vs2,-0.136363636
+Defense,2vs2,-0.125
+Defense,2vs2,-0.085714286
+Defense,2vs2,0
+Defense,2vs2 with High Pass Forward,-0.113043478
+Defense,2vs2 with High Pass Forward,-0.089285714
+Defense,2vs2 with High Pass Forward,-0.188118812
+Defense,2vs2 with High Pass Forward,-0.133333333
+Defense,2vs2 with High Pass Forward,-0.075630252
+Defense,2vs2 with High Pass Forward,-0.112781955
+Defense,2vs2 with High Pass Forward,-0.145454545
+Defense,2vs2 with High Pass Forward,-0.138613861
+Defense,2vs2 with High Pass Forward,-0.203539823
+Defense,2vs2 with High Pass Forward,-0.205128205
+Defense,Defender vs Opponent with Zigzag Dribble,-0.189189189
+Defense,Defender vs Opponent with Zigzag Dribble,-0.16
+Defense,Defender vs Opponent with Zigzag Dribble,-0.111111111
+Defense,Defender vs Opponent with Zigzag Dribble,-0.096491228
+Defense,Defender vs Opponent with Zigzag Dribble,-0.141732283
+Defense,Defender vs Opponent with Zigzag Dribble,-0.136363636
+Defense,Defender vs Opponent with Zigzag Dribble,-0.157407407
+Defense,Defender vs Opponent with Zigzag Dribble,-0.134453782
+Defense,Defender vs Opponent with Zigzag Dribble,-0.217054264
+Defense,Defender vs Opponent with Zigzag Dribble,-0.182608696
+Defense,3vs3 with Cross From Side,-0.227272727
+Defense,3vs3 with Cross From Side,-0.1875
+Defense,3vs3 with Cross From Side,-0.069767442
+Defense,3vs3 with Cross From Side,-0.32
+Defense,3vs3 with Cross From Side,-0.043478261
+Defense,3vs3 with Cross From Side,-0.065217391
+Defense,3vs3 with Cross From Side,-0.159090909
+Defense,3vs3 with Cross From Side,-0.068181818
+Defense,3vs3 with Cross From Side,-0.127272727
+Defense,3vs3 with Cross From Side,-0.265306122
+Defense,3vs3 Side Buildup Play,-0.253521127
+Defense,3vs3 Side Buildup Play,-0.246575342
+Defense,3vs3 Side Buildup Play,-0.137931034
+Defense,3vs3 Side Buildup Play,-0.236842105
+Defense,3vs3 Side Buildup Play,-0.267605634
+Defense,3vs3 Side Buildup Play,-0.230769231
+Defense,3vs3 Side Buildup Play,-0.166666667
+Defense,3vs3 Side Buildup Play,-0.225806452
+Defense,3vs3 Side Buildup Play,-0.185185185
+Defense,3vs3 Side Buildup Play,-0.24691358
+Defense,3vs2 Counter-Attack,-0.310344828
+Defense,3vs2 Counter-Attack,-0.403846154
+Defense,3vs2 Counter-Attack,-0.329268293
+Defense,3vs2 Counter-Attack,-0.3
+Defense,3vs2 Counter-Attack,-0.318181818
+Defense,3vs2 Counter-Attack,-0.344827586
+Defense,3vs2 Counter-Attack,-0.336206897
+Defense,3vs2 Counter-Attack,-0.330508475
+Defense,3vs2 Counter-Attack,-0.314285714
+Defense,3vs2 Counter-Attack,-0.37
+Defense,2vs2 Counter-Attack,-0.457142857
+Defense,2vs2 Counter-Attack,-0.333333333
+Defense,2vs2 Counter-Attack,-0.308823529
+Defense,2vs2 Counter-Attack,-0.45
+Defense,2vs2 Counter-Attack,-0.333333333
+Defense,2vs2 Counter-Attack,-0.388059701
+Defense,2vs2 Counter-Attack,-0.5
+Defense,2vs2 Counter-Attack,-0.507042254
+Defense,2vs2 Counter-Attack,-0.358208955
+Defense,2vs2 Counter-Attack,-0.480519481
+Defense,Defender vs Opponent with Hesitant Dribble,-0.574257426
+Defense,Defender vs Opponent with Hesitant Dribble,-0.55
+Defense,Defender vs Opponent with Hesitant Dribble,-0.519230769
+Defense,Defender vs Opponent with Hesitant Dribble,-0.504504505
+Defense,Defender vs Opponent with Hesitant Dribble,-0.565656566
+Defense,Defender vs Opponent with Hesitant Dribble,-0.62
+Defense,Defender vs Opponent with Hesitant Dribble,-0.489795918
+Defense,Defender vs Opponent with Hesitant Dribble,-0.579439252
+Defense,Defender vs Opponent with Hesitant Dribble,-0.490196078
+Defense,Defender vs Opponent with Hesitant Dribble,-0.676470588
